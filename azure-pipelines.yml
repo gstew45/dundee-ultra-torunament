@@ -24,6 +24,7 @@ steps:
   displayName: 'dotnet restore'
   inputs:
     command: 'restore'
+    root: './DundeeUltraTournament'
   
 - task: DotNetCoreCLI@2
   displayName: 'dotnet build'
