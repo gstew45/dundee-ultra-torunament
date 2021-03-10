@@ -19,6 +19,11 @@ steps:
   inputs:
     version: '5.0.x'
     includePreviewVersions: true # Required for preview versions
+    
+- task: DotNetCoreCLI@2
+  displayName: 'dotnet restore'
+  inputs:
+    command: 'restore'
   
 - task: DotNetCoreCLI@2
   displayName: 'dotnet build'
