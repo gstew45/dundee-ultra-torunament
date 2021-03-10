@@ -24,13 +24,13 @@ steps:
   displayName: 'dotnet restore'
   inputs:
     command: 'restore'
-    root: './DundeeUltraTournament'
-  
+    projects: '**/*.sln'
+
 - task: DotNetCoreCLI@2
   displayName: 'dotnet build'
   inputs:
     command: 'build'
-    solution: $(solution)
+    projects: '**/*.sln'
     configuration: $(buildConfiguration)
   
 - task: DotNetCoreCLI@2
