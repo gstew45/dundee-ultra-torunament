@@ -24,6 +24,7 @@ steps:
   displayName: 'dotnet build'
   inputs:
     command: 'build'
+    solution: $(solution)
     configuration: $(buildConfiguration)
   
 - task: DotNetCoreCLI@2
