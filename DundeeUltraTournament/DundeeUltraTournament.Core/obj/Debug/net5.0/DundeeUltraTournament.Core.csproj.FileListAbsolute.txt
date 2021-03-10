@@ -1,0 +1,12 @@
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\bin\Debug\net5.0\DundeeUltraTournament.Core.deps.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\bin\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\bin\Debug\net5.0\ref\DundeeUltraTournament.Core.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.csprojAssemblyReference.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.AssemblyInfoInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.AssemblyInfo.cs
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\ref\DundeeUltraTournament.Core.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Core\obj\Debug\net5.0\DundeeUltraTournament.Core.pdb

@@ -1,0 +1,16 @@
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.exe
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.deps.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.runtimeconfig.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.runtimeconfig.dev.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\ref\DundeeUltraTournament.DataPoller.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.csprojAssemblyReference.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.AssemblyInfoInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.AssemblyInfo.cs
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\ref\DundeeUltraTournament.DataPoller.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.genruntimeconfig.cache

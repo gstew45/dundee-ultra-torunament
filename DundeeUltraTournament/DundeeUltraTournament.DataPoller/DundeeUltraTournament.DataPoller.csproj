@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DundeeUltraTournament.Core\DundeeUltraTournament.Core.csproj" />
+    <ProjectReference Include="..\DundeeUltraTournament.Services\DundeeUltraTournament.Services.csproj" />
+  </ItemGroup>
+
+</Project>
