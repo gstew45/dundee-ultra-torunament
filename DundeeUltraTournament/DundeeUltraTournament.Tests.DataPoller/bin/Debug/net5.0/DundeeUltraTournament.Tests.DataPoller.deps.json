@@ -1201,10 +1201,20 @@
       "DundeeUltraTournament.DataPoller/1.0.0": {
         "dependencies": {
           "DundeeUltraTournament.Core": "1.0.0",
+          "DundeeUltraTournament.Persistence": "1.0.0",
           "DundeeUltraTournament.Services": "1.0.0"
         },
         "runtime": {
           "DundeeUltraTournament.DataPoller.dll": {}
+        }
+      },
+      "DundeeUltraTournament.Persistence/1.0.0": {
+        "dependencies": {
+          "DundeeUltraTournament.Core": "1.0.0",
+          "System.IO.Abstractions": "13.2.25"
+        },
+        "runtime": {
+          "DundeeUltraTournament.Persistence.dll": {}
         }
       },
       "DundeeUltraTournament.Services/1.0.0": {
@@ -1923,6 +1933,11 @@
       "sha512": ""
     },
     "DundeeUltraTournament.DataPoller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DundeeUltraTournament.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

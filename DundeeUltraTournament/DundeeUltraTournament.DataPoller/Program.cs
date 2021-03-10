@@ -12,7 +12,7 @@ namespace DundeeUltraTournament.DataPoller
 		static void Main(string[] args)
 		{
 			IPlayerStore playerStore = new FilePlayerStore(new FileSystem(), new JsonPlayersParser());
-			IPlayerService playerService = new FilePlayerService(playerStore));
+			IPlayerService playerService = new FilePlayerService(playerStore);
 			IDataGenerator dataGenerator = new WarzoneDataGenerator(playerService, null, null);
 
 			PollData poller = new PollData(dataGenerator);

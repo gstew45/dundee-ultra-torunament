@@ -109,3 +109,6 @@ C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournam
 C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
 C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Services.pdb
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\System.IO.Abstractions.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\Data\registeredPlayers.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Persistence.pdb
