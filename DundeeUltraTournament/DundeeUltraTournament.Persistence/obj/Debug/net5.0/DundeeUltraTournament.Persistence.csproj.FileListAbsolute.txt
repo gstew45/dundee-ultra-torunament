@@ -1,0 +1,16 @@
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\Data\registeredPlayers.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\DundeeUltraTournament.Persistence.deps.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\ref\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\DundeeUltraTournament.Persistence.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.csprojAssemblyReference.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.AssemblyInfoInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.AssemblyInfo.cs
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.csproj.CopyComplete
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\ref\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Persistence\obj\Debug\net5.0\DundeeUltraTournament.Persistence.pdb

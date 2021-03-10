@@ -1,0 +1,15 @@
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\DundeeUltraTournament.Services.deps.json
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\ref\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\DundeeUltraTournament.Services.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.csprojAssemblyReference.cache
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.AssemblyInfoInputs.cache
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.AssemblyInfo.cs
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.csproj.CoreCompileInputs.cache
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.csproj.CopyComplete
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\ref\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Services\obj\Debug\net5.0\DundeeUltraTournament.Services.pdb

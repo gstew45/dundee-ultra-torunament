@@ -102,3 +102,10 @@ C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournam
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.exe
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.dll
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.DataPoller.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\Castle.Core.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\FakeItEasy.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Services.pdb
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.Tests.DataPoller\bin\Debug\net5.0\System.IO.Abstractions.dll

@@ -1,5 +1,9 @@
-﻿using DundeeUltraTournament.Services;
-using System;
+﻿using DundeeUltraTournament.Core.Interfaces;
+using DundeeUltraTournament.Core.Interfaces.Stores;
+using DundeeUltraTournament.Persistence;
+using DundeeUltraTournament.Persistence.Parsers;
+using DundeeUltraTournament.Services;
+using System.IO.Abstractions;
 
 namespace DundeeUltraTournament.DataPoller
 {
@@ -7,7 +11,11 @@ namespace DundeeUltraTournament.DataPoller
 	{
 		static void Main(string[] args)
 		{
-			PollData poller = new PollData(new SbmmDataGenerator());
+			IPlayerStore playerStore = new FilePlayerStore(new FileSystem(), new JsonPlayersParser());
+			IPlayerService playerService = new FilePlayerService(playerStore));
+			IDataGenerator dataGenerator = new WarzoneDataGenerator(playerService, null, null);
+
+			PollData poller = new PollData(dataGenerator);
 			poller.Poll();
 		}
 	}

@@ -14,3 +14,12 @@ C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournam
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\ref\DundeeUltraTournament.DataPoller.dll
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.pdb
 C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.genruntimeconfig.cache
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Core.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Services.dll
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Core.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Services.pdb
+C:\dev\personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\obj\Debug\net5.0\DundeeUltraTournament.DataPoller.csproj.CopyComplete
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\System.IO.Abstractions.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\Data\registeredPlayers.json
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Persistence.dll
+C:\Dev\Personal\dundee-ultra-tournament\DundeeUltraTournament\DundeeUltraTournament.DataPoller\bin\Debug\net5.0\DundeeUltraTournament.Persistence.pdb

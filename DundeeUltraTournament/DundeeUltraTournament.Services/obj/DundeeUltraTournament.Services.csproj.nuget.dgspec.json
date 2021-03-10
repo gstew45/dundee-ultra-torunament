@@ -107,6 +107,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Abstractions": {
+              "target": "Package",
+              "version": "[13.2.25, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

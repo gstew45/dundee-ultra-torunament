@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "TKE84MOPSk52fNFKYqpUxeefIwaAgJdRYmEsjBOsZ4slgAPu12WX515Rh7yjaMSUs4iTe6QpdflVrrFpZAtuMw==",
+  "dgSpecHash": "Im+KGsKdJVRvQo/7yYmpzx1u+wAT0CMoN+MwtS9+5/DdWnJNQGTAUYpbt3NWW6nmIaXSnN2B53+zwlCfWo2DIg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Personal\\dundee-ultra-tournament\\DundeeUltraTournament\\DundeeUltraTournament.DataPoller\\DundeeUltraTournament.DataPoller.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\greg.stewart\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\greg.stewart\\.nuget\\packages\\system.io.abstractions\\13.2.25\\system.io.abstractions.13.2.25.nupkg.sha512",
+    "C:\\Users\\greg.stewart\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\greg.stewart\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\greg.stewart\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

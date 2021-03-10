@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DundeeUltraTournament.Core\DundeeUltraTournament.Core.csproj" />
+    <ProjectReference Include="..\DundeeUltraTournament.Persistence\DundeeUltraTournament.Persistence.csproj" />
     <ProjectReference Include="..\DundeeUltraTournament.Services\DundeeUltraTournament.Services.csproj" />
   </ItemGroup>
 

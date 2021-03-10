@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DundeeUltraTournament.Servi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DundeeUltraTournament.Tests.Services", "DundeeUltraTournament.Tests.Services\DundeeUltraTournament.Tests.Services.csproj", "{AE3F35FE-25B4-48F3-B0EE-E0F4638BB3A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DundeeUltraTournament.Persistence", "DundeeUltraTournament.Persistence\DundeeUltraTournament.Persistence.csproj", "{D229C137-E46D-4CC3-80BC-B8FF096F1130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DundeeUltraTournament.Tests.Persistence", "DundeeUltraTournament.Tests.Persistence\DundeeUltraTournament.Tests.Persistence.csproj", "{F2991E92-2CD5-4059-9709-1C18B3258C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{AE3F35FE-25B4-48F3-B0EE-E0F4638BB3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE3F35FE-25B4-48F3-B0EE-E0F4638BB3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE3F35FE-25B4-48F3-B0EE-E0F4638BB3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D229C137-E46D-4CC3-80BC-B8FF096F1130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D229C137-E46D-4CC3-80BC-B8FF096F1130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D229C137-E46D-4CC3-80BC-B8FF096F1130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D229C137-E46D-4CC3-80BC-B8FF096F1130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2991E92-2CD5-4059-9709-1C18B3258C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2991E92-2CD5-4059-9709-1C18B3258C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2991E92-2CD5-4059-9709-1C18B3258C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2991E92-2CD5-4059-9709-1C18B3258C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
